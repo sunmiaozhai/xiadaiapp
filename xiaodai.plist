@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
 					<key>url</key>
-					<string>http://cdn.game.yileweb.com/djx_res_01/ipa/icon.png</string>
+					<string>http://daiqitong168.com/static/images/dai.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DJX</string>
+				<string>信微小贷</string>
 			</dict>
 		</dict>
 	</array>
