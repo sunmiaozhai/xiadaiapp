@@ -1,25 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>compileBitcode</key>
-	<true/>
-	<key>method</key>
-	<string>development</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>com.daikingTung.2019</key>
-		<string>QiTongDai_Development</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>iPhone Developer</string>
-	<key>signingStyle</key>
-	<string>manual</string>
-	<key>stripSwiftSymbols</key>
-	<true/>
-	<key>teamID</key>
-	<string>2CDM3R8WU4</string>
-	<key>thinning</key>
-	<string>&lt;none&gt;</string>
-</dict>
-</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+   <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+ 	<plist version="1.0">
+ 	<dict>
+ 	<key>items</key>
+ 	<array>
+ 	<dict>
+ 	<key>assets</key>
+ 	<array>
+ 	<dict>
+ 	<key>kind</key>
+ 	<string>software-package</string>
+ 	<key>url</key>
+ 	<string>http://daiqitong168.com/static/app/xiaodai.ipa</string>
+ 	</dict>
+ 	<dict>
+ 	<key>kind</key>
+ 	<string>full-size-image</string>
+ 	<key>needs-shine</key>
+ 	<true/>
+ 	<key>url</key>
+ 	<string></string>
+ 	</dict>
+ 	<dict>
+ 	<key>kind</key>
+ 	<string>display-image</string>
+ 	<key>needs-shine</key>
+ 	<true/>
+ 	<key>url</key>
+ 	<string></string>
+ 	</dict>
+ 	</array>
+ 	<key>metadata</key>
+ 	<dict>
+ 	<key>bundle-identifier</key>
+ 	<string>com.daikingTung.2019</string>
+ 	<key>bundle-version</key>
+ 	<string>需要访问您的相册</string>
+ 	<key>kind</key>
+ 	<string>software</string>
+ 	<key>subtitle</key>
+ 	<string>信微小贷</string>
+ 	<key>title</key>
+ 	<string>信微小贷</string>
+ 	</dict>
+ 	</dict>
+ 	</array>
+ 	</dict>
+ 	</plist>
+
