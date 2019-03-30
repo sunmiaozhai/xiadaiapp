@@ -39,7 +39,7 @@
  <key>metadata</key>
  <dict>
  <key>bundle-identifier</key>
- <string>bundleID</string>
+ <string>com.daikingTung.2019</string>
  <key>bundle-version</key>
  <string>1.0</string>
  <key>kind</key>
