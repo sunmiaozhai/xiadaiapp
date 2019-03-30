@@ -35,7 +35,7 @@
  	<key>bundle-identifier</key>
  	<string>com.daikingTung.2019</string>
  	<key>bundle-version</key>
- 	<string>需要访问您的相册</string>
+ 	<string>1.0</string>
  	<key>kind</key>
  	<string>software</string>
  	<key>subtitle</key>
